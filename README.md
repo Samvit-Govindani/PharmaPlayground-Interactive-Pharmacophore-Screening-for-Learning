@@ -1,2 +1,2 @@
 # PharmaPlayground-Interactive-Pharmacophore-Screening-for-Learning
-Browser-based pharmacophore screening demo with 3D visualization, reproducible ligand generation, per-feature scoring, and exportable hit lists — built for education and portfolio use.
+Browser-based pharmacophore screening demo with 3D visualization, reproducible ligand generation, per-feature scoring, and exportable hit lists — built for EDUCATIONAL AND SIMULATIVE USE ONLY.
